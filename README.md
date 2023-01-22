@@ -28,7 +28,6 @@ Listenin sıralı olmayan kısmı sorgulandığında en küçük sayı 18'dir ve
 Big-O gösterimi:
 Yukarıdaki insertion sort projesi n elemanlı bir dizi için n+(n-1)+(n-2)+...+1 olacak şekilde 1'den n'e kadar olan sayıların toplamıdır. Bu fonsiyonda (n^2+n)/2 formülüne tekabül etmektedir. Big-O Notation'da en büyük/domine eden fonksiyon alınır. Bu nedenle insertion sort'un time complexity'si, worst case senaryosu n^2'dir.
 
-
 Time Complexity: 
 Dizi sıralandıktan sonra 18 sayısı average case'e girer çünkü ortadaki elemandır.
 
