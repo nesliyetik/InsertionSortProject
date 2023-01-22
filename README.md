@@ -1,7 +1,9 @@
-# patikadevodev1-
+# InsertionSortProject
+
 Patika 1.hafta ödevi insertion sort
 
-Step 1
+1.adım: 
+
 [22,27,16,2,18,6]
 
 Step 2
